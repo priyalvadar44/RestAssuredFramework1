@@ -1,8 +1,56 @@
-[INFO ] 2023-07-17 20:38:53.487 [main] UserTest - ********* Creating User  *************
-[INFO ] 2023-07-17 20:38:58.334 [main] UserTest - user created 
-[INFO ] 2023-07-17 20:38:58.345 [main] UserTest - user reading info..... 
-[INFO ] 2023-07-17 20:39:00.459 [main] UserTest - user info displayed 
-[INFO ] 2023-07-17 20:39:00.460 [main] UserTest - updating user 
-[INFO ] 2023-07-17 20:39:04.954 [main] UserTest - user is updated 
-[INFO ] 2023-07-17 20:39:04.955 [main] UserTest - user deleting ..... 
-[INFO ] 2023-07-17 20:39:06.901 [main] UserTest - user deleted
+[INFO ] 2023-07-18 15:05:48.280 [main] UserTest - ********* Creating User  *************
+[INFO ] 2023-07-18 15:05:53.377 [main] UserTest - user created 
+[INFO ] 2023-07-18 15:05:53.389 [main] UserTest - user reading info..... 
+[INFO ] 2023-07-18 15:05:55.722 [main] UserTest - user info displayed 
+[INFO ] 2023-07-18 15:05:55.725 [main] UserTest - updating user 
+[INFO ] 2023-07-18 15:05:59.586 [main] UserTest - user is updated 
+[INFO ] 2023-07-18 15:05:59.590 [main] UserTest - user deleting ..... 
+[INFO ] 2023-07-18 15:06:01.839 [main] UserTest - user deleted
+[INFO ] 2023-07-18 15:06:15.889 [main] UserTest2 - ********* Creating User  *************
+[INFO ] 2023-07-18 15:06:19.842 [main] UserTest2 - user created 
+[INFO ] 2023-07-18 15:06:19.864 [main] UserTest2 - user reading info..... 
+[INFO ] 2023-07-18 15:06:22.641 [main] UserTest2 - user info displayed 
+[INFO ] 2023-07-18 15:06:22.643 [main] UserTest2 - updating user 
+[INFO ] 2023-07-18 15:06:26.721 [main] UserTest2 - user is updated 
+[INFO ] 2023-07-18 15:06:26.723 [main] UserTest2 - user deleting ..... 
+[INFO ] 2023-07-18 15:06:28.665 [main] UserTest2 - user deleted
+[INFO ] 2023-07-18 15:08:03.549 [main] UserTest2 - ********* Creating User  *************
+[INFO ] 2023-07-18 15:08:07.053 [main] UserTest2 - user created 
+[INFO ] 2023-07-18 15:08:07.081 [main] UserTest2 - user reading info..... 
+[INFO ] 2023-07-18 15:08:09.227 [main] UserTest2 - user info displayed 
+[INFO ] 2023-07-18 15:08:09.228 [main] UserTest2 - updating user 
+[INFO ] 2023-07-18 15:08:13.932 [main] UserTest2 - user is updated 
+[INFO ] 2023-07-18 15:08:13.933 [main] UserTest2 - user deleting ..... 
+[INFO ] 2023-07-18 15:08:16.185 [main] UserTest2 - user deleted
+[INFO ] 2023-07-18 17:23:40.049 [main] UserTest - ********* Creating User  *************
+[INFO ] 2023-07-18 17:23:44.100 [main] UserTest - user created 
+[INFO ] 2023-07-18 17:23:44.109 [main] UserTest - user reading info..... 
+[INFO ] 2023-07-18 17:23:46.241 [main] UserTest - user info displayed 
+[INFO ] 2023-07-18 17:23:46.244 [main] UserTest - updating user 
+[INFO ] 2023-07-18 17:23:49.705 [main] UserTest - user is updated 
+[INFO ] 2023-07-18 17:23:49.706 [main] UserTest - user deleting ..... 
+[INFO ] 2023-07-18 17:23:51.192 [main] UserTest - user deleted
+[INFO ] 2023-07-18 17:24:17.290 [main] UserTest2 - ********* Creating User  *************
+[INFO ] 2023-07-18 17:24:20.804 [main] UserTest2 - user created 
+[INFO ] 2023-07-18 17:24:20.834 [main] UserTest2 - user reading info..... 
+[INFO ] 2023-07-18 17:24:24.018 [main] UserTest2 - user info displayed 
+[INFO ] 2023-07-18 17:24:24.019 [main] UserTest2 - updating user 
+[INFO ] 2023-07-18 17:24:28.209 [main] UserTest2 - user is updated 
+[INFO ] 2023-07-18 17:24:28.213 [main] UserTest2 - user deleting ..... 
+[INFO ] 2023-07-18 17:24:30.357 [main] UserTest2 - user deleted
+[INFO ] 2023-07-18 17:24:53.176 [main] UserTest - ********* Creating User  *************
+[INFO ] 2023-07-18 17:24:55.041 [main] UserTest - user created 
+[INFO ] 2023-07-18 17:25:00.156 [main] UserTest - user reading info..... 
+[INFO ] 2023-07-18 17:25:01.693 [main] UserTest - user info displayed 
+[INFO ] 2023-07-18 17:25:01.694 [main] UserTest - updating user 
+[INFO ] 2023-07-18 17:25:06.199 [main] UserTest - user is updated 
+[INFO ] 2023-07-18 17:25:06.201 [main] UserTest - user deleting ..... 
+[INFO ] 2023-07-18 17:25:08.142 [main] UserTest - user deleted
+[INFO ] 2023-07-18 17:28:22.394 [main] UserTest - ********* Creating User  *************
+[INFO ] 2023-07-18 17:28:24.239 [main] UserTest - user created 
+[INFO ] 2023-07-18 17:28:31.006 [main] UserTest - user reading info..... 
+[INFO ] 2023-07-18 17:28:33.967 [main] UserTest - user info displayed 
+[INFO ] 2023-07-18 17:28:33.968 [main] UserTest - updating user 
+[INFO ] 2023-07-18 17:28:39.393 [main] UserTest - user is updated 
+[INFO ] 2023-07-18 17:28:39.397 [main] UserTest - user deleting ..... 
+[INFO ] 2023-07-18 17:28:41.953 [main] UserTest - user deleted
